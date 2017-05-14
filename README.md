@@ -11,3 +11,6 @@ http://localhost:8888/notebooks/Assignment_week_5%20(1).ipynb#
 
 [assignment week 6](https://github.com/u898243/assignments-/blob/master/Assignment_week_6.ipynb)
 http://localhost:8888/notebooks/assignment4.ipynb#
+
+[assignment week 8](
+http://localhost:8888/notebooks/assignment5.ipynb#
