@@ -16,3 +16,5 @@ http://localhost:8888/notebooks/assignment4.ipynb#
 http://localhost:8888/notebooks/assignment5.ipynb#
 
 [Final Python assignment](https://github.com/u898243/assignments-/blob/master/Final_Assignment_Python.ipynb)
+
+[Final R assignment](https://github.com/u898243/assignments-/blob/master/OECD_R_exam.ipynb)
